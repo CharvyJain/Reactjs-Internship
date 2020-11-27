@@ -16,8 +16,8 @@ sum is 50.
   return ((x == 50 || y == 50) || (x + y == 50));
   }
   console.log(test50(50, 50))
-  console.log(test50(20, 50))
-  console.log(test50(20, 20))
+  console.log(test50(60, 30))
+  console.log(test50(20, 70))
   console.log(test50(20, 30))
   </script>
 </body>
