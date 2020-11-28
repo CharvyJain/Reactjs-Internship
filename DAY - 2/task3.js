@@ -5,7 +5,7 @@ Write a JavaScript function which display type and version of browser using aler
 <html>
   <head>
   <meta charset=utf-8 />
-  <title>Write a JavaScript program to calculate days left until next Christmas</title>
+  <title>Write a JavaScript function which display type and version of browser using alert.</title>
   </head>
   <body>
     <script>
