@@ -1,0 +1,8 @@
+Day 5 Task:
+Write a JavaScript prototype method named bespacify which extends string to allow spaces between each character of a input string
+Example- "hello". bespacify ()
+Output - h e l l o
+
+Write a JavaScript prototype method named bevowel which extends string to find all vowels in the inpu string
+Example - "hello". bevowel ()
+Output- eo
