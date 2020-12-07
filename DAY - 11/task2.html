@@ -1,0 +1,19 @@
+<!-- Write a JavaScript program to set the background color of a paragraph -->
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Background Color</title>
+        <script>
+            function colorChange(){
+                var x = document.getElementsByClassName('paragraph');
+                for(var i = 0; i < x.length; i++)
+                    x[i].style.backgroundColor = "blue";
+            }
+        </script>
+    </head>
+    <body>
+        <p class = "paragraph"> I'm heading back to Colorado tomorrow after being down in Santa Barbara over the weekend for the festival there. I will be making October plans once there and will try to arrange so I'm back here for the birthday if possible. I'll let you know as soon as I know the doctor's appointment schedule and my flight plans. </p><br>
+        <input type="button" value="Change color" onclick="colorChange()">
+    </body>
+</html>
